@@ -5,7 +5,7 @@ Uygulanabilir,değiştirlebilir fonksiyonel kodlar içermektedir.
 
 <h2> Kullanılan Teknolojiler </h2>
 
-CSS,SaSS,JavaScript,HTML kullanılmıştır.
+CSS,SCSS,JavaScript,HTML kullanılmıştır.
 
 <h3> Ekran Görüntüsü </h3>
 
